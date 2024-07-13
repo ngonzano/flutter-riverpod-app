@@ -1,0 +1,1 @@
+const generatedRepoPath = "/Users/niltongr/Desktop/flutter-riverpod-app";

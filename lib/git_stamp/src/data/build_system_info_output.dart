@@ -1,0 +1,1 @@
+const generatedBuildSystemInfo = "[✓] Flutter (Channel stable, 3.19.2, on macOS 14.5 23F79 darwin-arm64, locale es-PE)";

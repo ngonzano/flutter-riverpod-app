@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1020831038785",
+    "firebase_url": "https://rifas-60f30-default-rtdb.firebaseio.com",
+    "project_id": "rifas-60f30",
+    "storage_bucket": "rifas-60f30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020831038785:android:44bff2ef644431fd08f5c0",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020831038785-nags718h6vhiahl0irbbf3ol5nimpgfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2HPkSAJH7eQRaHsmTsPlnMpwkUaanGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020831038785-nags718h6vhiahl0irbbf3ol5nimpgfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020831038785-6hkp5kklloro2rcetc209kv5vsk6so0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riverpodApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020831038785:android:7b5972df1b1d003b08f5c0",
+        "android_client_info": {
+          "package_name": "com.jl.rifas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020831038785-jeugapo2u6bubah7qne18src1i5l7rc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jl.rifas",
+            "certificate_hash": "c379c784c645b6670349a6b9e0ef3c8945474e35"
+          }
+        },
+        {
+          "client_id": "1020831038785-vqiiim9r94a50mf5smb2tjciidacdbu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jl.rifas",
+            "certificate_hash": "44cb9ee70c7b4f30461eb6f5af9ad357c4423444"
+          }
+        },
+        {
+          "client_id": "1020831038785-nags718h6vhiahl0irbbf3ol5nimpgfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2HPkSAJH7eQRaHsmTsPlnMpwkUaanGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020831038785-nags718h6vhiahl0irbbf3ol5nimpgfm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020831038785-6hkp5kklloro2rcetc209kv5vsk6so0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.riverpodApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+const generatedIsLiteVersion = false;
