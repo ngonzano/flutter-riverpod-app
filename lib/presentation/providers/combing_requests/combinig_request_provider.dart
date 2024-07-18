@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 
+import 'package:flutter/widgets.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:http/http.dart' as http;
@@ -71,7 +72,7 @@ Future<List<Map>> restaurantsNearMe(RestaurantsNearMeRef ref) async {
 
   final results = json['results'] as List<dynamic>;
   ref.onDispose(() {
-    print('se esta eliminando el provider');
+    debugPrint('se esta eliminando el provider');
   });
   final rpt = results
       .map((e) => {

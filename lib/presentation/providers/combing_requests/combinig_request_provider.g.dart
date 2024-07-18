@@ -21,7 +21,7 @@ final locationProvider =
 );
 
 typedef LocationRef = StreamProviderRef<({double longitude, double latitude})>;
-String _$restaurantsNearMeHash() => r'368148c94907ff0bef6d2e9e1ef197f428203d55';
+String _$restaurantsNearMeHash() => r'132c4f6408229127800279cfc30421ef877d05c8';
 
 /// See also [restaurantsNearMe].
 @ProviderFor(restaurantsNearMe)
